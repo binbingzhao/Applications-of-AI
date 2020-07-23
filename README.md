@@ -1,4 +1,4 @@
-# Applications-of-AI
+# Applications of Artificial Intelligence
 ## Natural Language Processing - NLP Projects
 
 ## NLTK Corpus
