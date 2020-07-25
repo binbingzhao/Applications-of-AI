@@ -1,7 +1,10 @@
 # Applications of Artificial Intelligence
 ## Natural Language Processing - NLP Projects
 
-1. Discover Sentiments in Tweets
+## 1. Discover Sentiments in Tweets
+- nltk.tokenize
+- sklearn
+- wordcloud
 
 ## 2. NLTK Corpus
 ## - Gutenberg Examples
